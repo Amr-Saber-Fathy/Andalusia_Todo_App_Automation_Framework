@@ -1,0 +1,32 @@
+[
+  {
+    "email": "",
+    "password": "",
+    "expectedErrorMessage": "",
+    "scenarioNumber": 1
+  },
+  {
+    "email": "",
+    "password": "",
+    "expectedErrorMessage": "",
+    "scenarioNumber": 1
+  },
+  {
+    "email": "",
+    "password": "",
+    "expectedErrorMessage": "",
+    "scenarioNumber": 1
+  },
+  {
+    "email": "",
+    "password": "",
+    "expectedErrorMessage": "",
+    "scenarioNumber": 1
+  },
+  {
+    "email": "",
+    "password": "",
+    "expectedErrorMessage": "",
+    "scenarioNumber": 1
+  }
+]
