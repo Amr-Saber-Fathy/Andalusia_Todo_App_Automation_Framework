@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ali",
+    "age": 25,
+    "rate": 25.4
+  },
+  {
+    "name": "Ahmed",
+    "age": 30,
+    "rate": 32.4
+  },
+  {
+    "name": "Menna",
+    "age": 26,
+    "rate": 0.0
+  },
+  {
+    "name": "Alaa",
+    "age": 32,
+    "rate": 4.32
+  }
+]
